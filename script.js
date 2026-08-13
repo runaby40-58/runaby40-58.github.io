@@ -1,3 +1,9 @@
+// 모바일 브라우저의 자동 스크롤 복원 방지 및 상단 고정
+if ('scrollRestoration' in history) {
+    history.scrollRestoration = 'manual';
+}
+window.scrollTo(0, 0);
+
 // Project Data
 const projects = [
     {
