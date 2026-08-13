@@ -556,6 +556,7 @@ body {
 .cell-role {
     font-weight: 600;
     color: var(--accent-cyan) !important;
+    white-space: nowrap;
 }
 
 .tech-badges-wrapper {
