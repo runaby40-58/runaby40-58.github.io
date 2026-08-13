@@ -344,9 +344,10 @@ body {
 }
 
 .stat-num {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: 700;
     color: var(--text-primary);
+    white-space: nowrap;
 }
 
 .stat-label {

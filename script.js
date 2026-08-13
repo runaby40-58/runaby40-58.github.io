@@ -36,105 +36,105 @@ const projects = [
         languages: ["ASP", "Windows", "Oracle8i"]
     },
     {
-        agency: "웹에이젼씨",
+        agency: "웹에이전시",
         client: "이넬",
         project: "이넬 쇼핑몰 제작 및 운영",
         role: "구축 및 운영",
         languages: ["ASP", "Windows", "Mssql"]
     },
     {
-        agency: "웹에이젼씨",
+        agency: "웹에이전시",
         client: "국민상조",
         project: "국민상조 리뉴얼",
         role: "구축 및 운영",
         languages: ["JAVA/JSP", "Windows", "Oracle8i", "Spring", "Ibatis"]
     },
     {
-        agency: "웹에이젼씨",
+        agency: "웹에이전시",
         client: "삼성테크윈",
         project: "삼성테크윈 리뉴얼",
         role: "구축 및 운영",
         languages: ["ASP", "Windows", "Mssql", "IIS"]
     },
     {
-        agency: "웹에이젼씨",
+        agency: "웹에이전시",
         client: "호반건설",
         project: "호반건설 리뉴얼",
         role: "구축 및 운영",
         languages: ["ASP", "Windows", "Mssql", "IIS"]
     },
     {
-        agency: "웹에이젼씨",
+        agency: "웹에이전시",
         client: "효성진흥기업",
         project: "효성진흥기업 리뉴얼",
         role: "구축 및 운영",
         languages: ["JAVA/JSP", "Unix", "Oracle9i", "Framework"]
     },
     {
-        agency: "웹에이젼씨",
+        agency: "웹에이전시",
         client: "KT",
         project: "KT아이디어풀 신규제작",
         role: "구축 및 운영",
         languages: ["JAVA/JSP", "Unix", "Oracle9i"]
     },
     {
-        agency: "웹에이젼씨",
+        agency: "웹에이전시",
         client: "효성건설",
         project: "효성건설 리뉴얼",
         role: "구축 및 운영",
         languages: ["JAVA/JSP", "Unix", "Oracle9i", "Framework", "Prototype"]
     },
     {
-        agency: "웹에이젼씨",
+        agency: "웹에이전시",
         client: "월드비전",
         project: "월드비전 리뉴얼",
         role: "구축 및 운영",
         languages: ["ASP", "Windows", "Mssql", "IIS", "Procedure", "Prototype"]
     },
     {
-        agency: "웹에이젼씨",
+        agency: "웹에이전시",
         client: "대한주택공사",
         project: "대한주택공사 리뉴얼",
         role: "구축 및 운영",
         languages: ["JAVA/JSP", "Unix", "Oracle8i", "Spring", "Ibatis"]
     },
     {
-        agency: "웹에이젼씨",
+        agency: "웹에이전시",
         client: "KT",
         project: "RND 연구소 특허사이트 신규제작",
         role: "구축 및 운영",
         languages: ["JAVA/JSP", "Windows", "Oracle8i"]
     },
     {
-        agency: "웹에이젼씨",
+        agency: "웹에이전시",
         client: "CJ",
         project: "온무비스타일 리뉴얼",
         role: "구축 및 운영",
         languages: ["ASP", "Windows", "Mssql", "IIS", "Procedure"]
     },
     {
-        agency: "웹에이젼씨",
+        agency: "웹에이전시",
         client: "효성",
         project: "효성 사이트 리뉴얼",
         role: "구축 및 운영",
         languages: ["JAVA/JSP", "UNIX", "Oracle"]
     },
     {
-        agency: "웹에이젼씨",
+        agency: "웹에이전시",
         client: "KT",
         project: "KT채용시스템 구축, 사이트 리뉴얼 운영 및 고도화",
         role: "구축 및 운영",
         languages: ["JAVA/JSP", "UNIX", "Oracle"]
     },
     {
-        agency: "웹에이젼씨",
+        agency: "웹에이전시",
         client: "효성",
         project: "효성벤츠 신규제작",
         role: "구축 및 운영",
         languages: ["JAVA/JSP", "UNIX", "Oracle"]
     },
     {
-        agency: "웹에이젼씨",
+        agency: "웹에이전시",
         client: "소프트웨어공제조합",
         project: "소프트웨어공제조합 유지보수",
         role: "구축 및 운영",
