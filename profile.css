@@ -822,7 +822,6 @@ tr:hover .badge-tech {
     }
     
     .intro-visual {
-        order: -1;
         position: relative;
         top: 0;
         margin-bottom: 1rem;
